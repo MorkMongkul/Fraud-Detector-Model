@@ -44,6 +44,6 @@ typing_extensions==4.12.0
 tzdata==2024.1
 urllib3==2.2.1
 xgboost==2.0.3
-Kaggle API == 1.6.14
+Kaggle==1.6.14
 
 
